@@ -1,0 +1,14 @@
+html  {
+    background-color: black;
+    color: red;
+}
+
+img {
+    width: 800px;
+    height: auto;
+}
+
+body {
+    display:flex;
+    align-items: center;
+}
