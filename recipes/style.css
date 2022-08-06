@@ -1,14 +1,20 @@
 html  {
     background-color: black;
-    color: red;
+    color: teal;
 }
 
 img {
-    width: 800px;
+    width: 600px;
     height: auto;
 }
 
 body {
     display:flex;
     align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    background-color: firebrick;
+    color: black;
 }
